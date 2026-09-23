@@ -214,6 +214,6 @@ Possible future improvements include:
 
 ## 👩‍💻 Author
 
-**Ankita Tode**
+**Ankita Tode Mate**
 
 Python | Data Science | Software Development
